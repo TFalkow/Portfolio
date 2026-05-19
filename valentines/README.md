@@ -10,3 +10,9 @@ Analysis of a direct mailing campaign encouraging customers to shop at an online
 The project evaluates campaign performance by comparing purchasing behaviour between customers who received the mailing and a control group who did not.
 
 Full report of the analysis is available in file [Valentines Day 2024 Full Report.html](https://tfalkow.github.io/Portfolio/valentines/Valentines%20Day%202024%20Full%20Report.html)
+
+In Appendices you will find:
+ - Power BI report (both .pbix and.pdf files)
+ - full SQL query used in the report (valentines.dbquery.ipynb)
+
+The raw data used to prepare the report is available under Data.
