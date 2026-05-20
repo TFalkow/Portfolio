@@ -2,8 +2,6 @@ __NOTE: This is a portfolio project, that analyses data for a fictional company.
 
 © Tomasz Falkowski 2026
 
-LinkedIn: https://www.linkedin.com/in/tomasz-falkowski-004202141/
-
 **Valentine's Day 2024 Marketing Campaign Effectiveness Analysis**
 
 Analysis of a direct mailing campaign encouraging customers to shop at an online store during the Valentine's Day promotional period (February 1–14, 2024).
